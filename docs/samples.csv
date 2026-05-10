@@ -1,0 +1,6 @@
+run,sample,barcode,path
+Profile1,sample1,BC01,input/barcode06.passed.fastq.gz
+Profile1,sample2,BC02,input/barcode09.fastq.gz
+
+
+you can add as many BCs as you want.
